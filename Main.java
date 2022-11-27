@@ -7,6 +7,8 @@ class Main {
     arr.add("orange");
     System.out.println();
     arr.display();
+    System.out.println();
+    
     
   }
 }
